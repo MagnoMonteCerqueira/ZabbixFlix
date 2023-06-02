@@ -274,5 +274,53 @@
     "Nome": "Claro NET",
     "URL": "https://www.claronet.com.br/",
     "DNS": "claronet.com.br"
+  },
+  {
+    "Servico": "Midia Social",
+    "Nome": "Facebook",
+    "URL": "https://www.facebook.com/",
+    "DNS": "facebook.com"
+  },
+  {
+    "Servico": "Midia Social",
+    "Nome": "Instagram",
+    "URL": "https://www.instagram.com/",
+    "DNS": "instagram.com"
+  },
+  {
+    "Servico": "Midia Social",
+    "Nome": "Twitter",
+    "URL": "https://www.twitter.com/",
+    "DNS": "twitter.com"
+  },
+  {
+    "Servico": "Midia Social",
+    "Nome": "YouTube",
+    "URL": "https://www.youtube.com/",
+    "DNS": "youtube.com"
+  },
+  {
+    "Servico": "Midia Social",
+    "Nome": "LinkedIn",
+    "URL": "https://www.linkedin.com/",
+    "DNS": "linkedin.com"
+  },
+  {
+    "Servico": "Midia Social",
+    "Nome": "TikTok",
+    "URL": "https://www.tiktok.com/",
+    "DNS": "tiktok.com"
+  },
+  {
+    "Servico": "Midia Social",
+    "Nome": "Pinterest",
+    "URL": "https://www.pinterest.com/",
+    "DNS": "pinterest.com"
+  },
+  {
+    "Servico": "Midia Social",
+    "Nome": "Reddit",
+    "URL": "https://www.reddit.com/",
+    "DNS": "reddit.com"
   }
 ]
