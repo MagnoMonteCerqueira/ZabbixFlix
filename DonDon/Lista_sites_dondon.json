@@ -214,5 +214,65 @@
     "Nome": "Brasil de Fato",
     "URL": "https://www.brasildefato.com.br/",
     "DNS": "brasildefato.com.br"
+  },
+  {
+    "Servico": "Telecomunicacoes",
+    "Nome": "Claro",
+    "URL": "https://www.claro.com.br/",
+    "DNS": "claro.com.br"
+  },
+  {
+    "Servico": "Telecomunicacoes",
+    "Nome": "Vivo",
+    "URL": "https://www.vivo.com.br/",
+    "DNS": "vivo.com.br"
+  },
+  {
+    "Servico": "Telecomunicacoes",
+    "Nome": "TIM",
+    "URL": "https://www.tim.com.br/",
+    "DNS": "tim.com.br"
+  },
+  {
+    "Servico": "Telecomunicacoes",
+    "Nome": "Oi",
+    "URL": "https://www.oi.com.br/",
+    "DNS": "oi.com.br"
+  },
+  {
+    "Servico": "Telecomunicacoes",
+    "Nome": "Nextel",
+    "URL": "https://www.nextel.com.br/",
+    "DNS": "nextel.com.br"
+  },
+  {
+    "Servico": "Telecomunicacoes",
+    "Nome": "Algar Telecom",
+    "URL": "https://www.algartelecom.com.br/",
+    "DNS": "algartelecom.com.br"
+  },
+  {
+    "Servico": "Telecomunicacoes",
+    "Nome": "Sercomtel",
+    "URL": "https://www.sercomtel.com.br/",
+    "DNS": "sercomtel.com.br"
+  },
+  {
+    "Servico": "Telecomunicacoes",
+    "Nome": "Sky",
+    "URL": "https://www.sky.com.br/",
+    "DNS": "sky.com.br"
+  },
+  {
+    "Servico": "Telecomunicacoes",
+    "Nome": "NET",
+    "URL": "https://www.net.com.br/",
+    "DNS": "net.com.br"
+  },
+  {
+    "Servico": "Telecomunicacoes",
+    "Nome": "Claro NET",
+    "URL": "https://www.claronet.com.br/",
+    "DNS": "claronet.com.br"
   }
 ]
