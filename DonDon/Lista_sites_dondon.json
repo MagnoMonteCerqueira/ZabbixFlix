@@ -106,5 +106,35 @@
     "Nome": "Apple TV+",
     "URL": "https://www.apple.com/br/apple-tv-plus/",
     "DNS": "apple.com"
+  },
+  {
+    "Servico": "Vídeo",
+    "Nome": "YouTube",
+    "URL": "https://www.youtube.com/",
+    "DNS": "youtube.com"
+  },
+  {
+    "Servico": "Vídeo",
+    "Nome": "Vimeo",
+    "URL": "https://vimeo.com/",
+    "DNS": "vimeo.com"
+  },
+  {
+    "Servico": "Vídeo",
+    "Nome": "Dailymotion",
+    "URL": "https://www.dailymotion.com/br",
+    "DNS": "dailymotion.com"
+  },
+  {
+    "Servico": "Vídeo",
+    "Nome": "Twitch",
+    "URL": "https://www.twitch.tv/",
+    "DNS": "twitch.tv"
+  },
+  {
+    "Servico": "Vídeo",
+    "Nome": "IGTV",
+    "URL": "https://www.instagram.com/tv/",
+    "DNS": "instagram.com"
   }
 ]
