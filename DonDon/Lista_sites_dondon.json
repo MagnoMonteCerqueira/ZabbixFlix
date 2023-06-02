@@ -322,5 +322,65 @@
     "Nome": "Reddit",
     "URL": "https://www.reddit.com/",
     "DNS": "reddit.com"
+  },
+  {
+    "Servico": "Servicos Online",
+    "Nome": "Google",
+    "URL": "https://www.google.com.br/",
+    "DNS": "google.com.br"
+  },
+  {
+    "Servico": "Servicos Online",
+    "Nome": "Microsoft",
+    "URL": "https://www.microsoft.com/pt-br",
+    "DNS": "microsoft.com"
+  },
+  {
+    "Servico": "Servicos Online",
+    "Nome": "Amazon",
+    "URL": "https://www.amazon.com.br/",
+    "DNS": "amazon.com.br"
+  },
+  {
+    "Servico": "Servicos Online",
+    "Nome": "Netflix",
+    "URL": "https://www.netflix.com/",
+    "DNS": "netflix.com"
+  },
+  {
+    "Servico": "Servicos Online",
+    "Nome": "Globo Play",
+    "URL": "https://globoplay.globo.com/",
+    "DNS": "globoplay.globo.com"
+  },
+  {
+    "Servico": "Servicos Online",
+    "Nome": "UOL",
+    "URL": "https://www.uol.com.br/",
+    "DNS": "uol.com.br"
+  },
+  {
+    "Servico": "Servicos Online",
+    "Nome": "Mercado Livre",
+    "URL": "https://www.mercadolivre.com.br/",
+    "DNS": "mercadolivre.com.br"
+  },
+  {
+    "Servico": "Servicos Online",
+    "Nome": "Zoom",
+    "URL": "https://www.zoom.com.br/",
+    "DNS": "zoom.com.br"
+  },
+  {
+    "Servico": "Servicos Online",
+    "Nome": "iFood",
+    "URL": "https://www.ifood.com.br/",
+    "DNS": "ifood.com.br"
+  },
+  {
+    "Servico": "Servicos Online",
+    "Nome": "Uber",
+    "URL": "https://www.uber.com/br/pt/",
+    "DNS": "uber.com"
   }
 ]
