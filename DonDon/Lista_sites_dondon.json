@@ -136,5 +136,41 @@
     "Nome": "IGTV",
     "URL": "https://www.instagram.com/tv/",
     "DNS": "instagram.com"
+  },
+  {
+    "Servico": "Jogos",
+    "Nome": "Steam",
+    "URL": "https://store.steampowered.com/",
+    "DNS": "steampowered.com"
+  },
+  {
+    "Servico": "Jogos",
+    "Nome": "GOG",
+    "URL": "https://www.gog.com/",
+    "DNS": "gog.com"
+  },
+  {
+    "Servico": "Jogos",
+    "Nome": "Epic Games Store",
+    "URL": "https://www.epicgames.com/store/",
+    "DNS": "epicgames.com"
+  },
+  {
+    "Servico": "Jogos",
+    "Nome": "Origin",
+    "URL": "https://www.origin.com/bra/pt-br/store",
+    "DNS": "origin.com"
+  },
+  {
+    "Servico": "Jogos",
+    "Nome": "Battle.net",
+    "URL": "https://www.blizzard.com/pt-br/apps/battle.net/desktop",
+    "DNS": "blizzard.com"
+  },
+  {
+    "Servico": "Jogos",
+    "Nome": "Uplay",
+    "URL": "https://ubisoftconnect.com/pt-BR/",
+    "DNS": "ubisoft.com"
   }
 ]
