@@ -1,107 +1,68 @@
 [
     {
-        "Servico": "Banco",
+        "Serviço": "Banco",
         "Nome": "BancodoBrasil",
-        "URL": "https://www.bb.com.br/"
+        "URL": "https://www.bb.com.br/",
+        "DNS": "bb.com.br"
     },
     {
-        "Servico": "Banco",
+        "Serviço": "Banco",
         "Nome": "CaixaEconomicaFederal",
-        "URL": "https://www.caixa.gov.br/"
+        "URL": "https://www.caixa.gov.br/",
+        "DNS": "caixa.gov.br"
     },
     {
-        "Servico": "Banco",
+        "Serviço": "Banco",
         "Nome": "ItauUnibanco",
-        "URL": "https://www.itau.com.br/"
+        "URL": "https://www.itau.com.br/",
+        "DNS": "itau.com.br"
     },
     {
-        "Servico": "Banco",
+        "Serviço": "Banco",
         "Nome": "Bradesco",
-        "URL": "https://banco.bradesco/"
+        "URL": "https://banco.bradesco/",
+        "DNS": "bradesco.com.br"
     },
     {
-        "Servico": "Banco",
+        "Serviço": "Banco",
         "Nome": "Santander",
-        "URL": "https://www.santander.com.br/"
+        "URL": "https://www.santander.com.br/",
+        "DNS": "santander.com.br"
     },
     {
-        "Servico": "Banco",
+        "Serviço": "Banco",
         "Nome": "BancoInter",
-        "URL": "https://www.bancointer.com.br/"
+        "URL": "https://www.bancointer.com.br/",
+        "DNS": "bancointer.com.br"
     },
     {
-        "Servico": "Banco",
+        "Serviço": "Banco",
         "Nome": "BancoOriginal",
-        "URL": "https://www.original.com.br/"
+        "URL": "https://www.original.com.br/",
+        "DNS": "original.com.br"
     },
     {
-        "Servico": "Banco",
+        "Serviço": "Banco",
         "Nome": "Nubank",
-        "URL": "https://www.nubank.com.br/"
+        "URL": "https://www.nubank.com.br/",
+        "DNS": "nubank.com.br"
     },
     {
-        "Servico": "Banco",
+        "Serviço": "Banco",
         "Nome": "BancoSafra",
-        "URL": "https://www.safra.com.br/"
+        "URL": "https://www.safra.com.br/",
+        "DNS": "safra.com.br"
     },
     {
-        "Servico": "Banco",
+        "Serviço": "Banco",
         "Nome": "BancoVotorantim",
-        "URL": "https://www.bancovotorantim.com.br/"
+        "URL": "https://www.bancovotorantim.com.br/",
+        "DNS": "bancovotorantim.com.br"
     },
     {
-        "Servico": "Banco",
+        "Serviço": "Banco",
         "Nome": "BancoPan",
-        "URL": "https://www.bancopan.com.br/"
-    },
-    {
-        "Servico": "ServicosdeStreaming",
-        "Nome": "Netflix",
-        "URL": "https://www.netflix.com/"
-    },
-    {
-        "Servico": "ServicosdeStreaming",
-        "Nome": "AmazonPrimeVideo",
-        "URL": "https://www.primevideo.com/"
-    },
-    {
-        "Servico": "ServicosdeStreaming",
-        "Nome": "Disney+",
-        "URL": "https://www.disneyplus.com/"
-    },
-    {
-        "Servico": "ServicosdeStreaming",
-        "Nome": "HBOMax",
-        "URL": "https://www.hbomax.com/"
-    },
-    {
-        "Servico": "ServicosdeStreaming",
-        "Nome": "Paramount+",
-        "URL": "https://www.paramountplus.com/"
-    },
-    {
-        "Servico": "ServicosdeStreaming",
-        "Nome": "Globoplay",
-        "URL": "https://globoplay.globo.com/"
-    },
-    {
-        "Servico": "ServicosdeStreaming",
-        "Nome": "AppleTV+",
-        "URL": "https://www.apple.com/apple-tv-plus/"
-    },
-    {
-        "Servico": "ServicosdeStreaming",
-        "Nome": "Hulu",
-        "URL": "https://www.hulu.com/"
-    },
-    {
-        "Servico": "ServicosdeStreaming",
-        "Nome": "Peacock",
-        "URL": "https://www.peacocktv.com/"
-    },
-    {
-        "Servico": "ServicosdeStreaming",
-        "Nome": "Crave",
-        "URL": "https://www.crave.ca/"
+        "URL": "https://www.bancopan.com.br/",
+        "DNS": "bancopan.com.br"
     }
 ]
