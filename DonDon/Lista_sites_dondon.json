@@ -1,68 +1,110 @@
 [
-    {
-        "Servico": "Banco",
-        "Nome": "Banco do Brasil",
-        "URL": "https://www.bb.com.br/",
-        "DNS": "bb.com.br"
-    },
-    {
-        "Servico": "Banco",
-        "Nome": "Caixa Economica Federal",
-        "URL": "https://www.caixa.gov.br/",
-        "DNS": "caixa.gov.br"
-    },
-    {
-        "Servico": "Banco",
-        "Nome": "Itau Unibanco",
-        "URL": "https://www.itau.com.br/",
-        "DNS": "itau.com.br"
-    },
-    {
-        "Servico": "Banco",
-        "Nome": "Bradesco",
-        "URL": "https://banco.bradesco/",
-        "DNS": "bradesco.com.br"
-    },
-    {
-        "Servico": "Banco",
-        "Nome": "Santander",
-        "URL": "https://www.santander.com.br/",
-        "DNS": "santander.com.br"
-    },
-    {
-        "Servico": "Banco",
-        "Nome": "Banco Inter",
-        "URL": "https://www.bancointer.com.br/",
-        "DNS": "bancointer.com.br"
-    },
-    {
-        "Servico": "Banco",
-        "Nome": "Banco Original",
-        "URL": "https://www.original.com.br/",
-        "DNS": "original.com.br"
-    },
-    {
-        "Servico": "Banco",
-        "Nome": "Nubank",
-        "URL": "https://www.nubank.com.br/",
-        "DNS": "nubank.com.br"
-    },
-    {
-        "Servico": "Banco",
-        "Nome": "Banco Safra",
-        "URL": "https://www.safra.com.br/",
-        "DNS": "safra.com.br"
-    },
-    {
-        "Servico": "Banco",
-        "Nome": "Banco Votorantim",
-        "URL": "https://www.bancovotorantim.com.br/",
-        "DNS": "bancovotorantim.com.br"
-    },
-    {
-        "Servico": "Banco",
-        "Nome": "Banco Pan",
-        "URL": "https://www.bancopan.com.br/",
-        "DNS": "bancopan.com.br"
-    }
+  {
+    "Servico": "Banco",
+    "Nome": "Banco do Brasil",
+    "URL": "https://www.bb.com.br/",
+    "DNS": "bb.com.br"
+  },
+  {
+    "Servico": "Banco",
+    "Nome": "Caixa Econômica Federal",
+    "URL": "https://www.caixa.gov.br/",
+    "DNS": "caixa.gov.br"
+  },
+  {
+    "Servico": "Banco",
+    "Nome": "Itaú Unibanco",
+    "URL": "https://www.itau.com.br/",
+    "DNS": "itau.com.br"
+  },
+  {
+    "Servico": "Banco",
+    "Nome": "Bradesco",
+    "URL": "https://banco.bradesco/",
+    "DNS": "bradesco.com.br"
+  },
+  {
+    "Servico": "Banco",
+    "Nome": "Santander",
+    "URL": "https://www.santander.com.br/",
+    "DNS": "santander.com.br"
+  },
+  {
+    "Servico": "Banco",
+    "Nome": "Banco Inter",
+    "URL": "https://www.bancointer.com.br/",
+    "DNS": "bancointer.com.br"
+  },
+  {
+    "Servico": "Banco",
+    "Nome": "Banco Original",
+    "URL": "https://www.original.com.br/",
+    "DNS": "original.com.br"
+  },
+  {
+    "Servico": "Banco",
+    "Nome": "Nubank",
+    "URL": "https://www.nubank.com.br/",
+    "DNS": "nubank.com.br"
+  },
+  {
+    "Servico": "Banco",
+    "Nome": "Banco Safra",
+    "URL": "https://www.safra.com.br/",
+    "DNS": "safra.com.br"
+  },
+  {
+    "Servico": "Banco",
+    "Nome": "Banco Votorantim",
+    "URL": "https://www.bancovotorantim.com.br/",
+    "DNS": "bancovotorantim.com.br"
+  },
+  {
+    "Servico": "Banco",
+    "Nome": "Banco Pan",
+    "URL": "https://www.bancopan.com.br/",
+    "DNS": "bancopan.com.br"
+  },
+  {
+    "Servico": "Streaming",
+    "Nome": "Netflix",
+    "URL": "https://www.netflix.com/br/",
+    "DNS": "netflix.com"
+  },
+  {
+    "Servico": "Streaming",
+    "Nome": "Amazon Prime Video",
+    "URL": "https://www.primevideo.com/",
+    "DNS": "primevideo.com"
+  },
+  {
+    "Servico": "Streaming",
+    "Nome": "Disney+",
+    "URL": "https://www.disneyplus.com/pt-br/",
+    "DNS": "disneyplus.com"
+  },
+  {
+    "Servico": "Streaming",
+    "Nome": "Globoplay",
+    "URL": "https://globoplay.globo.com/",
+    "DNS": "globoplay.globo.com"
+  },
+  {
+    "Servico": "Streaming",
+    "Nome": "HBO Max",
+    "URL": "https://www.hbomax.com/br/pt/",
+    "DNS": "hbomax.com"
+  },
+  {
+    "Servico": "Streaming",
+    "Nome": "Paramount+",
+    "URL": "https://www.paramountplus.com.br/",
+    "DNS": "paramountplus.com"
+  },
+  {
+    "Servico": "Streaming",
+    "Nome": "Apple TV+",
+    "URL": "https://www.apple.com/br/apple-tv-plus/",
+    "DNS": "apple.com"
+  }
 ]
