@@ -172,5 +172,47 @@
     "Nome": "Uplay",
     "URL": "https://ubisoftconnect.com/pt-BR/",
     "DNS": "ubisoft.com"
+  },
+  {
+    "Servico": "Jornal Online",
+    "Nome": "Folha de S. Paulo",
+    "URL": "https://www.folha.uol.com.br/",
+    "DNS": "folha.uol.com.br"
+  },
+  {
+    "Servico": "Jornal Online",
+    "Nome": "O Globo",
+    "URL": "https://oglobo.globo.com/",
+    "DNS": "oglobo.globo.com"
+  },
+  {
+    "Servico": "Jornal Online",
+    "Nome": "Estadão",
+    "URL": "https://www.estadao.com.br/",
+    "DNS": "estadao.com.br"
+  },
+  {
+    "Servico": "Jornal Online",
+    "Nome": "Valor Econômico",
+    "URL": "https://valor.globo.com/",
+    "DNS": "valor.globo.com"
+  },
+  {
+    "Servico": "Jornal Online",
+    "Nome": "Veja",
+    "URL": "https://veja.abril.com.br/",
+    "DNS": "veja.abril.com.br"
+  },
+  {
+    "Servico": "Jornal Online",
+    "Nome": "CartaCapital",
+    "URL": "https://www.cartacapital.com.br/",
+    "DNS": "cartacapital.com.br"
+  },
+  {
+    "Servico": "Jornal Online",
+    "Nome": "Brasil de Fato",
+    "URL": "https://www.brasildefato.com.br/",
+    "DNS": "brasildefato.com.br"
   }
 ]
