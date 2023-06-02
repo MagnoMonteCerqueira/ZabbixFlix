@@ -1,67 +1,67 @@
 [
     {
-        "Serviço": "Banco",
-        "Nome": "BancodoBrasil",
+        "Servico": "Banco",
+        "Nome": "Banco do Brasil",
         "URL": "https://www.bb.com.br/",
         "DNS": "bb.com.br"
     },
     {
-        "Serviço": "Banco",
-        "Nome": "CaixaEconomicaFederal",
+        "Servico": "Banco",
+        "Nome": "Caixa Economica Federal",
         "URL": "https://www.caixa.gov.br/",
         "DNS": "caixa.gov.br"
     },
     {
-        "Serviço": "Banco",
-        "Nome": "ItauUnibanco",
+        "Servico": "Banco",
+        "Nome": "Itau Unibanco",
         "URL": "https://www.itau.com.br/",
         "DNS": "itau.com.br"
     },
     {
-        "Serviço": "Banco",
+        "Servico": "Banco",
         "Nome": "Bradesco",
         "URL": "https://banco.bradesco/",
         "DNS": "bradesco.com.br"
     },
     {
-        "Serviço": "Banco",
+        "Servico": "Banco",
         "Nome": "Santander",
         "URL": "https://www.santander.com.br/",
         "DNS": "santander.com.br"
     },
     {
-        "Serviço": "Banco",
-        "Nome": "BancoInter",
+        "Servico": "Banco",
+        "Nome": "Banco Inter",
         "URL": "https://www.bancointer.com.br/",
         "DNS": "bancointer.com.br"
     },
     {
-        "Serviço": "Banco",
-        "Nome": "BancoOriginal",
+        "Servico": "Banco",
+        "Nome": "Banco Original",
         "URL": "https://www.original.com.br/",
         "DNS": "original.com.br"
     },
     {
-        "Serviço": "Banco",
+        "Servico": "Banco",
         "Nome": "Nubank",
         "URL": "https://www.nubank.com.br/",
         "DNS": "nubank.com.br"
     },
     {
-        "Serviço": "Banco",
-        "Nome": "BancoSafra",
+        "Servico": "Banco",
+        "Nome": "Banco Safra",
         "URL": "https://www.safra.com.br/",
         "DNS": "safra.com.br"
     },
     {
-        "Serviço": "Banco",
-        "Nome": "BancoVotorantim",
+        "Servico": "Banco",
+        "Nome": "Banco Votorantim",
         "URL": "https://www.bancovotorantim.com.br/",
         "DNS": "bancovotorantim.com.br"
     },
     {
-        "Serviço": "Banco",
-        "Nome": "BancoPan",
+        "Servico": "Banco",
+        "Nome": "Banco Pan",
         "URL": "https://www.bancopan.com.br/",
         "DNS": "bancopan.com.br"
     }
