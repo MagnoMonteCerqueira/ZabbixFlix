@@ -1,27 +1,107 @@
-[{
-    "Bancos": {
-        "BancodoBrasil": "https://www.bb.com.br/",
-        "CaixaEconomicaFederal": "https://www.caixa.gov.br/",
-        "ItauUnibanco": "https://www.itau.com.br/",
-        "Bradesco": "https://banco.bradesco/",
-        "Santander": "https://www.santander.com.br/",
-        "BancoInter": "https://www.bancointer.com.br/",
-        "BancoOriginal": "https://www.original.com.br/",
-        "Nubank": "https://www.nubank.com.br/",
-        "BancoSafra": "https://www.safra.com.br/",
-        "BancoVotorantim": "https://www.bancovotorantim.com.br/",
-        "BancoPan": "https://www.bancopan.com.br/"
+[
+    {
+        "Servico": "Banco",
+        "Nome": "BancodoBrasil",
+        "URL": "https://www.bb.com.br/"
     },
-    "ServicosdeStreaming": {
-        "Netflix": "https://www.netflix.com/",
-        "AmazonPrimeVideo": "https://www.primevideo.com/",
-        "Disney+": "https://www.disneyplus.com/",
-        "HBOMax": "https://www.hbomax.com/",
-        "Paramount+": "https://www.paramountplus.com/",
-        "Globoplay": "https://globoplay.globo.com/",
-        "AppleTV+": "https://www.apple.com/apple-tv-plus/",
-        "Hulu": "https://www.hulu.com/",
-        "Peacock": "https://www.peacocktv.com/",
-        "Crave": "https://www.crave.ca/"
+    {
+        "Servico": "Banco",
+        "Nome": "CaixaEconomicaFederal",
+        "URL": "https://www.caixa.gov.br/"
+    },
+    {
+        "Servico": "Banco",
+        "Nome": "ItauUnibanco",
+        "URL": "https://www.itau.com.br/"
+    },
+    {
+        "Servico": "Banco",
+        "Nome": "Bradesco",
+        "URL": "https://banco.bradesco/"
+    },
+    {
+        "Servico": "Banco",
+        "Nome": "Santander",
+        "URL": "https://www.santander.com.br/"
+    },
+    {
+        "Servico": "Banco",
+        "Nome": "BancoInter",
+        "URL": "https://www.bancointer.com.br/"
+    },
+    {
+        "Servico": "Banco",
+        "Nome": "BancoOriginal",
+        "URL": "https://www.original.com.br/"
+    },
+    {
+        "Servico": "Banco",
+        "Nome": "Nubank",
+        "URL": "https://www.nubank.com.br/"
+    },
+    {
+        "Servico": "Banco",
+        "Nome": "BancoSafra",
+        "URL": "https://www.safra.com.br/"
+    },
+    {
+        "Servico": "Banco",
+        "Nome": "BancoVotorantim",
+        "URL": "https://www.bancovotorantim.com.br/"
+    },
+    {
+        "Servico": "Banco",
+        "Nome": "BancoPan",
+        "URL": "https://www.bancopan.com.br/"
+    },
+    {
+        "Servico": "ServicosdeStreaming",
+        "Nome": "Netflix",
+        "URL": "https://www.netflix.com/"
+    },
+    {
+        "Servico": "ServicosdeStreaming",
+        "Nome": "AmazonPrimeVideo",
+        "URL": "https://www.primevideo.com/"
+    },
+    {
+        "Servico": "ServicosdeStreaming",
+        "Nome": "Disney+",
+        "URL": "https://www.disneyplus.com/"
+    },
+    {
+        "Servico": "ServicosdeStreaming",
+        "Nome": "HBOMax",
+        "URL": "https://www.hbomax.com/"
+    },
+    {
+        "Servico": "ServicosdeStreaming",
+        "Nome": "Paramount+",
+        "URL": "https://www.paramountplus.com/"
+    },
+    {
+        "Servico": "ServicosdeStreaming",
+        "Nome": "Globoplay",
+        "URL": "https://globoplay.globo.com/"
+    },
+    {
+        "Servico": "ServicosdeStreaming",
+        "Nome": "AppleTV+",
+        "URL": "https://www.apple.com/apple-tv-plus/"
+    },
+    {
+        "Servico": "ServicosdeStreaming",
+        "Nome": "Hulu",
+        "URL": "https://www.hulu.com/"
+    },
+    {
+        "Servico": "ServicosdeStreaming",
+        "Nome": "Peacock",
+        "URL": "https://www.peacocktv.com/"
+    },
+    {
+        "Servico": "ServicosdeStreaming",
+        "Nome": "Crave",
+        "URL": "https://www.crave.ca/"
     }
-}]
+]
