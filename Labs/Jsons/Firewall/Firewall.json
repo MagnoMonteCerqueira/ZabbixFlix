@@ -17,7 +17,7 @@
 		"Nome": "PSU 1",
 		"Valor": "220",
 		"Unidade": "V",
-		"Status": "OK",
+		"Status": "0",
 		"Componente": "Voltagem de entrada"
 	},
 	{
@@ -25,7 +25,7 @@
 		"Nome": "PSU 2",
 		"Valor": "220",
 		"Unidade": "V",
-		"Status": "OK",
+		"Status": "0",
 		"Componente": "Voltagem de entrada"
 	},
 	{
@@ -41,7 +41,7 @@
 		"Nome": "Temperatura",
 		"Valor": "45",
 		"Unidade": "C",
-		"Status": "OK",
+		"Status": "0",
 		"Componente": "Temperatura"
 	},
 	{
@@ -49,7 +49,7 @@
 		"Nome": "Fan 1",
 		"Valor": "1200",
 		"Unidade": "RPM",
-		"Status": "OK",
+		"Status": "0",
 		"Componente": "Fan"
 	},
 	{
@@ -57,7 +57,7 @@
 		"Nome": "Fan 2",
 		"Valor": "1200",
 		"Unidade": "RPM",
-		"Status": "OK",
+		"Status": "0",
 		"Componente": "Fan"
 	},
 	{
@@ -65,7 +65,7 @@
 		"Nome": "Fan 3",
 		"Valor": "1200",
 		"Unidade": "RPM",
-		"Status": "OK",
+		"Status": "0",
 		"Componente": "Fan"
 	},
 	{
@@ -73,7 +73,7 @@
 		"Nome": "Fan 4",
 		"Valor": "1200",
 		"Unidade": "RPM",
-		"Status": "OK",
+		"Status": "0",
 		"Componente": "Fan"
 	},
 	{
@@ -85,7 +85,7 @@
 		"Trafegodeentrada": "13456893434",
 		"Trafegodesaida": "1345689455656",
 		"Valocidadedaporta": "125000000",
-		"Status": "OK",
+		"Status": "0",
 		"Statusadm": "0",
 		"Statusoper": "0",
 		"Componente": "Network"
@@ -99,7 +99,7 @@
 		"Trafegodeentrada": "13456893434",
 		"Trafegodesaida": "1345689455656",
 		"Valocidadedaporta": "125000000",
-		"Status": "OK",
+		"Status": "0",
 		"Statusadm": "0",
 		"Statusoper": "0",
 		"Componente": "Network"
@@ -113,7 +113,7 @@
 		"Trafegodeentrada": "13456893434",
 		"Trafegodesaida": "1345689455656",
 		"Valocidadedaporta": "125000000",
-		"Status": "OK",
+		"Status": "0",
 		"Statusadm": "0",
 		"Statusoper": "0",
 		"Componente": "Network"
@@ -127,7 +127,7 @@
 		"Trafegodeentrada": "13456893434",
 		"Trafegodesaida": "1345689455656",
 		"Valocidadedaporta": "125000000",
-		"Status": "OK",
+		"Status": "0",
 		"Statusadm": "0",
 		"Statusoper": "0",
 		"Componente": "Network"
@@ -141,7 +141,7 @@
 		"Trafegodeentrada": "13456893434",
 		"Trafegodesaida": "1345689455656",
 		"Valocidadedaporta": "125000000",
-		"Status": "OK",
+		"Status": "0",
 		"Statusadm": "0",
 		"Statusoper": "0",
 		"Componente": "Network"
@@ -155,7 +155,7 @@
 		"Trafegodeentrada": "13456893434",
 		"Trafegodesaida": "1345689455656",
 		"Valocidadedaporta": "125000000",
-		"Status": "OK",
+		"Status": "0",
 		"Statusadm": "0",
 		"Statusoper": "0",
 		"Componente": "Network"
@@ -169,7 +169,7 @@
 		"Trafegodeentrada": "13456893434",
 		"Trafegodesaida": "1345689455656",
 		"Valocidadedaporta": "125000000",
-		"Status": "OK",
+		"Status": "0",
 		"Statusadm": "0",
 		"Statusoper": "0",
 		"Componente": "Network"
@@ -183,7 +183,7 @@
 		"Trafegodeentrada": "13456893434",
 		"Trafegodesaida": "1345689455656",
 		"Valocidadedaporta": "125000000",
-		"Status": "OK",
+		"Status": "0",
 		"Statusadm": "0",
 		"Statusoper": "0",
 		"Componente": "Network"
@@ -197,7 +197,7 @@
 		"Trafegodeentrada": "13456893434",
 		"Trafegodesaida": "1345689455656",
 		"Valocidadedaporta": "125000000",
-		"Status": "OK",
+		"Status": "0",
 		"Statusadm": "0",
 		"Statusoper": "0",
 		"Componente": "Network"
@@ -211,9 +211,126 @@
 		"Trafegodeentrada": "13456893434",
 		"Trafegodesaida": "1345689455656",
 		"Valocidadedaporta": "125000000",
-		"Status": "OK",
+		"Status": "0",
 		"Statusadm": "0",
 		"Statusoper": "0",
 		"Componente": "Network"
+	},
+	{
+		"SNMPINDEX": "21",
+		"Nome": "VPN Sede",
+		"Porta": "vpn0/21",
+		"Valor": "1200",
+		"Unidade": "bps",
+		"Trafegodeentrada": "13456893434",
+		"Trafegodesaida": "1345689455656",
+		"Valocidadedaporta": "125000000",
+		"Status": "0",
+		"Statusadm": "0",
+		"Statusoper": "0",
+		"Statusfase1": "0",
+		"Statusfase2": "0",
+		"Componente": "VPN IPSec"
+	},
+	{
+		"SNMPINDEX": "22",
+		"Nome": "VPN AWS",
+		"Porta": "vpn0/22",
+		"Valor": "1200",
+		"Unidade": "bps",
+		"Trafegodeentrada": "13456893434",
+		"Trafegodesaida": "1345689455656",
+		"Valocidadedaporta": "125000000",
+		"Status": "0",
+		"Statusadm": "0",
+		"Statusoper": "0",
+		"Statusfase1": "0",
+		"Statusfase2": "0",
+		"Componente": "VPN IPSec"
+	},
+	{
+		"SNMPINDEX": "23",
+		"Nome": "VPN AZURE",
+		"Porta": "vpn0/23",
+		"Valor": "1200",
+		"Unidade": "bps",
+		"Trafegodeentrada": "13456893434",
+		"Trafegodesaida": "1345689455656",
+		"Valocidadedaporta": "125000000",
+		"Status": "0",
+		"Statusadm": "0",
+		"Statusoper": "0",
+		"Statusfase1": "0",
+		"Statusfase2": "0",
+		"Componente": "VPN IPSec"
+	},
+	{
+		"SNMPINDEX": "24",
+		"Nome": "VPN Filial 1",
+		"Porta": "vpn0/24",
+		"Valor": "1200",
+		"Unidade": "bps",
+		"Trafegodeentrada": "13456893434",
+		"Trafegodesaida": "1345689455656",
+		"Valocidadedaporta": "125000000",
+		"Status": "0",
+		"Statusadm": "0",
+		"Statusoper": "0",
+		"Statusfase1": "0",
+		"Statusfase2": "0",
+		"Componente": "VPN IPSec"
+	},
+	{
+		"SNMPINDEX": "25",
+		"Nome": "VPN Filial 2",
+		"Porta": "vpn0/25",
+		"Valor": "1200",
+		"Unidade": "bps",
+		"Trafegodeentrada": "13456893434",
+		"Trafegodesaida": "1345689455656",
+		"Valocidadedaporta": "125000000",
+		"Status": "0",
+		"Statusadm": "0",
+		"Statusoper": "0",
+		"Statusfase1": "0",
+		"Statusfase2": "0",
+		"Componente": "VPN IPSec"
+	},
+	{
+		"SNMPINDEX": "26",
+		"Nome": "VPN Filial 3",
+		"Porta": "vpn0/26",
+		"Valor": "1200",
+		"Unidade": "bps",
+		"Trafegodeentrada": "13456893434",
+		"Trafegodesaida": "1345689455656",
+		"Valocidadedaporta": "125000000",
+		"Status": "1",
+		"Statusadm": "0",
+		"Statusoper": "0",
+		"Statusfase1": "0",
+		"Statusfase2": "0",
+		"Componente": "VPN IPSec"
+	},
+	{
+		"SNMPINDEX": "27",
+		"Nome": "FIREWALL-ZABBIXFLIX01",
+		"Serial": "123456789",
+		"Local": "Sede",
+		"Unidade": "Rio de Janeiro",
+		"Firmwareversion": "Firmware version 20",
+		"Hardwaremodelname": "Caixa Preta Braba",
+		"Systemname": "zeus",
+		"Systemobjectid": ".1.1.1.1.1.1234",
+		"uptime": "23345456",
+		"IPNumber": "8.8.8.8",
+		"Operatingsystem": "Linux inventado pra zabbixflix",
+		"Componente": "System"
+	},
+	{
+		"SNMPINDEX": "28",
+		"SNMPagentavailability": "1",
+		"Componente": "Health"
 	}
+
 ]
