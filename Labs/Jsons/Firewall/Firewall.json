@@ -61,9 +61,9 @@
 	{
 		"SNMPINDEX": "8",
 		"Nome": "Fan 2",
-		"Valor": "1200",
+		"Valor": "0",
 		"Unidade": "RPM",
-		"Status": "0",
+		"Status": "1",
 		"Componente": "Fan"
 	},
 	{
@@ -77,9 +77,9 @@
 	{
 		"SNMPINDEX": "10",
 		"Nome": "Fan 4",
-		"Valor": "1200",
+		"Valor": "00",
 		"Unidade": "RPM",
-		"Status": "0",
+		"Status": "1",
 		"Componente": "Fan"
 	},
 	{
