@@ -25,9 +25,9 @@
 	{
 		"SNMPINDEX": "4",
 		"Nome": "PSU 2",
-		"Valor": "220",
+		"Valor": "97",
 		"Unidade": "V",
-		"Status": "0",
+		"Status": "1",
 		"Componente": "PSU"
 	},
 	{
@@ -394,9 +394,9 @@
 	{
 		"SNMPINDEX": "35",
 		"Nome": "Fan 6",
-		"Valor": "1200",
+		"Valor": "0",
 		"Unidade": "RPM",
-		"Status": "0",
+		"Status": "1",
 		"Componente": "Fan"
 	}
 
