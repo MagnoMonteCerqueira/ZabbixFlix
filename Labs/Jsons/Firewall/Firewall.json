@@ -9,7 +9,7 @@
 	{
 		"SNMPINDEX": "2",
 		"Nome": "Memoria 0",
-		"Valor": "85",
+		"Valor": "65",
 		"Unidade": "%",
 		"Status": "0",
 		"Componente": "Memory"
