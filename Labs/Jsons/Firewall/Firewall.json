@@ -20,7 +20,7 @@
 		"Valor": "220",
 		"Unidade": "V",
 		"Status": "0",
-		"Componente": "Voltagem de entrada"
+		"Componente": "PSU"
 	},
 	{
 		"SNMPINDEX": "4",
@@ -28,7 +28,7 @@
 		"Valor": "220",
 		"Unidade": "V",
 		"Status": "0",
-		"Componente": "Voltagem de entrada"
+		"Componente": "PSU"
 	},
 	{
 		"SNMPINDEX": "5",
