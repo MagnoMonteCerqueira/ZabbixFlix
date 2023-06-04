@@ -1,6 +1,6 @@
 [{
 		"SNMPINDEX": "1",
-		"Nome": "CPU",
+		"Nome": "CPU 0",
 		"Valor": "65",
 		"Unidade": "%",
 		"Componente": "CPU"
@@ -367,7 +367,7 @@
 	},
         {
 		"SNMPINDEX": "32",
-		"Nome": "CPU 2",
+		"Nome": "CPU 1",
 		"Valor": "55",
 		"Unidade": "%",
 		"Componente": "CPU"
