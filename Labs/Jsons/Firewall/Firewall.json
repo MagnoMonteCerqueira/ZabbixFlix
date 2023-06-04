@@ -12,7 +12,7 @@
 		"Valor": "85",
 		"Unidade": "%",
 		"Status": "0",
-		"Componente": "Memoria"
+		"Componente": "Memory"
 	},
 	{
 		"SNMPINDEX": "3",
@@ -381,7 +381,7 @@
 		"Valor": "75",
 		"Unidade": "%",
 		"Status": "0",
-		"Componente": "Memoria"
+		"Componente": "Memory"
 	}
 
 ]
