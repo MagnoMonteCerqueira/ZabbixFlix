@@ -48,7 +48,7 @@
 		"Valor": "45",
 		"Unidade": "C",
 		"Status": "0",
-		"Componente": "Temperatura"
+		"Componente": "Temperature"
 	},
 	{
 		"SNMPINDEX": "7",
@@ -344,7 +344,7 @@
 		"Valor": "43",
 		"Unidade": "C",
 		"Status": "0",
-		"Componente": "Temperatura"
+		"Componente": "Temperature"
 	},
 	{
 		"SNMPINDEX": "30",
