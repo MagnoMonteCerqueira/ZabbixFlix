@@ -8,7 +8,7 @@
 	},
 	{
 		"SNMPINDEX": "2",
-		"Nome": "Memoria",
+		"Nome": "Memoria 0",
 		"Valor": "85",
 		"Unidade": "%",
 		"Status": "0",
@@ -374,6 +374,14 @@
 		"Unidade": "%",
 		"Status": "0",
 		"Componente": "CPU"
+	},
+	{
+		"SNMPINDEX": "33",
+		"Nome": "Memoria 1",
+		"Valor": "75",
+		"Unidade": "%",
+		"Status": "0",
+		"Componente": "Memoria"
 	}
 
 ]
