@@ -328,7 +328,7 @@
 		"Hardwaremodelname": "Caixa Preta Braba",
 		"Systemname": "zeus",
 		"Systemobjectid": ".1.1.1.1.1.1234",
-		"uptime": "23",
+		"uptime": "600",
 		"IPNumber": "8.8.8.8",
 		"Operatingsystem": "Linux inventado pra zabbixflix",
 		"Componente": "System"
