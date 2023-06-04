@@ -349,9 +349,9 @@
 	{
 		"SNMPINDEX": "30",
 		"Nome": "Bateria",
-		"Valor": "0",
-		"Unidade": "Battery",
-		"Status": "Ready",
+		"Valor": "100",
+		"Unidade": "%",
+		"Status": "0",
 		"Componente": "Battery"
 	},
 	{
