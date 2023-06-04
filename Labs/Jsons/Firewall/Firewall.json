@@ -3,6 +3,7 @@
 		"Nome": "CPU 0",
 		"Valor": "65",
 		"Unidade": "%",
+	        "Status": "0",
 		"Componente": "CPU"
 	},
 	{
@@ -10,6 +11,7 @@
 		"Nome": "Memoria",
 		"Valor": "85",
 		"Unidade": "%",
+		"Status": "0",
 		"Componente": "Memoria"
 	},
 	{
@@ -370,6 +372,7 @@
 		"Nome": "CPU 1",
 		"Valor": "55",
 		"Unidade": "%",
+		"Status": "0",
 		"Componente": "CPU"
 	}
 
