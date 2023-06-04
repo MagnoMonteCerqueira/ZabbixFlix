@@ -34,11 +34,15 @@
 		"Valor": "0",
 		"Unidade": "",
 		"Status": "Ativo",
+		"HAMode": "Standalone",
+		"HAConfigSync": "Enable",
+		"HALoadBalancing": "None",
+		"HAClusterPriority": "128",
 		"Componente": "HA"
 	},
 	{
 		"SNMPINDEX": "6",
-		"Nome": "Temperatura",
+		"Nome": "Temperatura 1",
 		"Valor": "45",
 		"Unidade": "C",
 		"Status": "0",
@@ -331,6 +335,35 @@
 		"SNMPINDEX": "28",
 		"SNMPagentavailability": "1",
 		"Componente": "Health"
+	},
+	{
+		"SNMPINDEX": "29",
+		"Nome": "Temperatura 2",
+		"Valor": "43",
+		"Unidade": "C",
+		"Status": "0",
+		"Componente": "Temperatura"
+	},
+	{
+		"SNMPINDEX": "30",
+		"Nome": "Bateria",
+		"Valor": "0",
+		"Unidade": "Battery",
+		"Status": "Ready",
+		"Componente": "Battery"
+	},
+	{
+		"SNMPINDEX": "31",
+		"Nome": "Disk",
+		"Valor": "0",
+		"Unidade": "B",
+		"Status": "Ready",
+		"Total": "10737418240",
+		"Free": "5368709120",
+		"Used": "5368709120",
+		"PFree": "52",
+		"PUsed": "48",
+		"Componente": "Disk"
 	}
 
 ]
