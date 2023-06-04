@@ -382,6 +382,22 @@
 		"Unidade": "%",
 		"Status": "0",
 		"Componente": "Memory"
+	},
+	{
+		"SNMPINDEX": "34",
+		"Nome": "Fan 5",
+		"Valor": "1200",
+		"Unidade": "RPM",
+		"Status": "0",
+		"Componente": "Fan"
+	},
+	{
+		"SNMPINDEX": "35",
+		"Nome": "Fan 6",
+		"Valor": "1200",
+		"Unidade": "RPM",
+		"Status": "0",
+		"Componente": "Fan"
 	}
 
 ]
