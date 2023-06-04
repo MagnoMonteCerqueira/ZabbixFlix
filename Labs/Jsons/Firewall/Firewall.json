@@ -364,6 +364,13 @@
 		"PFree": "52",
 		"PUsed": "48",
 		"Componente": "Disk"
+	},
+        {
+		"SNMPINDEX": "32",
+		"Nome": "CPU 2",
+		"Valor": "55",
+		"Unidade": "%",
+		"Componente": "CPU"
 	}
 
 ]
