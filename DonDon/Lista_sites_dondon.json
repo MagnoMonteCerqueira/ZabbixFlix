@@ -81,7 +81,7 @@
     "Servico": "Streaming",
     "Nome": "Disney+",
     "URL": "https://www.disneyplus.com/pt-br/",
-    "DNS": "disneyplus.com"
+    "DNS": "www.disneyplus.com"
   },
   {
     "Servico": "Streaming",
@@ -93,7 +93,7 @@
     "Servico": "Streaming",
     "Nome": "HBO Max",
     "URL": "https://www.hbomax.com/br/pt/",
-    "DNS": "hbomax.com"
+    "DNS": "www.hbomax.com"
   },
   {
     "Servico": "Streaming",
