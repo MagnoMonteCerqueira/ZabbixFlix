@@ -247,12 +247,6 @@
   },
   {
     "Servico": "Telecomunicacoes",
-    "Nome": "Algar Telecom",
-    "URL": "https://www.algartelecom.com.br/",
-    "DNS": "algartelecom.com.br"
-  },
-  {
-    "Servico": "Telecomunicacoes",
     "Nome": "Sercomtel",
     "URL": "https://www.sercomtel.com.br/",
     "DNS": "sercomtel.com.br"
@@ -261,7 +255,7 @@
     "Servico": "Telecomunicacoes",
     "Nome": "Sky",
     "URL": "https://www.sky.com.br/",
-    "DNS": "sky.com.br"
+    "DNS": "www.sky.com.br"
   },
   {
     "Servico": "Telecomunicacoes",
@@ -369,7 +363,7 @@
     "Servico": "Servicos Online",
     "Nome": "Zoom",
     "URL": "https://www.zoom.com.br/",
-    "DNS": "zoom.com.br"
+    "DNS": "www.zoom.com.br"
   },
   {
     "Servico": "Servicos Online",
