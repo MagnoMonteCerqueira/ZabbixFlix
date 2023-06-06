@@ -1,12 +1,6 @@
 [
   {
     "Servico": "Banco",
-    "Nome": "Banco do Brasil",
-    "URL": "https://www.bb.com.br/",
-    "DNS": "bb.com.br"
-  },
-  {
-    "Servico": "Banco",
     "Nome": "Caixa Econômica Federal",
     "URL": "https://www.caixa.gov.br/",
     "DNS": "www.caixa.gov.br"
@@ -69,7 +63,7 @@
     "Servico": "Streaming",
     "Nome": "Netflix",
     "URL": "https://www.netflix.com/br/",
-    "DNS": "netflix.com"
+    "DNS": "www.netflix.com"
   },
   {
     "Servico": "Streaming",
